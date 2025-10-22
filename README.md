@@ -1,8 +1,8 @@
-📊 Anova Data Integration Platform
+#📊 Anova Data Integration Platform
 
 A powerful full-stack web application that unifies multiple databases into a single, easy-to-use interface. Designed for real-time data querying and insights, this platform helps businesses seamlessly connect, analyze, and leverage their data across PostgreSQL, Snowflake, and more.
 
-✨ Features
+#✨ Features
 
 💡 Unified Database Access: Connect and manage diverse databases (PostgreSQL, Snowflake, MySQL, etc.) from one platform.
 ⚡ Real-Time Queries: Execute live SQL queries and get instant insights without switching between tools.
@@ -10,7 +10,7 @@ A powerful full-stack web application that unifies multiple databases into a sin
 🔐 Secure Authentication: Role-based access control and encrypted data connections ensure enterprise-grade security.
 🧩 Scalable Architecture: Built with modular APIs to easily integrate additional data sources.
 
-🧠 Role
+#🧠 Role
 Developed: A full-stack web app for connecting multiple databases and executing real-time queries.
 Responsibilities:
 
@@ -20,16 +20,17 @@ Integrated PostgreSQL and Snowflake for live query execution.
 
 Built an intuitive frontend for query input, result visualization, and data management.
 
-📋 Tech Stack
+#📋 Tech Stack
 
 Frontend: React.js, Tailwind CSS
 Backend: FastAPI, Python
 Database: PostgreSQL, Snowflake
 Deployment: Docker, AWS
 
-🚀 Setup Guide
+#🚀 Setup Guide
 
 1️⃣ Clone the Repository
+
 git clone <repo-link>
 cd anova-platform
 
