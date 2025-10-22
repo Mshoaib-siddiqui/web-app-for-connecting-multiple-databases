@@ -30,15 +30,14 @@ Deployment: Docker, AWS
 
 # 🚀 Setup Guide
 # 1️⃣ Clone the Repository
-git clone <repo-link>
-cd anova-platform
+```bash git clone <repo-link> cd anova-platform```
+
 
 # 2️⃣ Create a Virtual Environment
-python -m venv venv
-#Windows
-venv\Scripts\activate  
-#macOS/Linux
-source venv/bin/activate  
+
+```bash python -m venv venv #Windows venv\Scripts\activate ```
+### macOS/Linux
+```source venv/bin/activate ```
 
 # 3️⃣ Install Dependencies
 pip install -r requirements.txt
