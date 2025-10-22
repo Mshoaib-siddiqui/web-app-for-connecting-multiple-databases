@@ -11,7 +11,6 @@ A powerful full-stack web application that unifies multiple databases into a sin
 🧩 Scalable Architecture: Built with modular APIs to easily integrate additional data sources.
 
 🧠 Role
-
 Developed: A full-stack web app for connecting multiple databases and executing real-time queries.
 Responsibilities:
 
@@ -29,6 +28,7 @@ Database: PostgreSQL, Snowflake
 Deployment: Docker, AWS
 
 🚀 Setup Guide
+
 1️⃣ Clone the Repository
 git clone <repo-link>
 cd anova-platform
@@ -54,3 +54,19 @@ http://localhost:8000
 
 
 🎉 Boom! You now have a unified data integration and analytics platform up and running.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
